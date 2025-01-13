@@ -249,15 +249,15 @@ a:hover{
     background-color: #14ff72cb;
     left: 0;
     top: 0;
-    animation: runningTime 7s linear 1 forwards;
+    /*animation: runningTime 7s linear 1 forwards;*/
 }
 
-@keyframes runningTime {
+/*@keyframes runningTime {
     
     from{width: 0%;}
     to{width: 100%;}
 
-}
+}*/
 
 
 /* Responsive Design */
