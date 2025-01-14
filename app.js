@@ -18,9 +18,9 @@ prevBtn.onclick = function(){
 
 let runTimeOut 
 
-let runNextAuto = setTimeout(() => {
-    nextBtn.click()
-}, timeAutoNext)
+//let runNextAuto = setTimeout(() => {
+ //   nextBtn.click()
+//}, timeAutoNext)
 
 
 function resetTimeAnimation() {
