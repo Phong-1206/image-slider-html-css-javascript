@@ -49,10 +49,10 @@ function showSlider(type) {
     }, timeRunning)
 
 
-    clearTimeout(runNextAuto)
-    runNextAuto = setTimeout(() => {
-        nextBtn.click()
-    }, timeAutoNext)
+    //clearTimeout(runNextAuto)
+   // runNextAuto = setTimeout(() => {
+   //     nextBtn.click()
+  //  }, timeAutoNext)
 
     resetTimeAnimation() // Reset the running time animation
 }
